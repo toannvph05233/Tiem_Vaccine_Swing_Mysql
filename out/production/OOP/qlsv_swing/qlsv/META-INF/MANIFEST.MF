@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: qlsv_swing.qlsv.App
+Main-Class: App
 
